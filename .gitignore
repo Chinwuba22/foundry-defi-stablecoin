@@ -10,5 +10,7 @@ out/
 # Docs
 docs/
 
+.github
+
 # Dotenv file
 .env
